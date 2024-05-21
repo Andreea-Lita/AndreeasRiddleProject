@@ -1,0 +1,18 @@
+.footer {
+    min-height: 120px;
+    background: #2e2057;
+    position: relative;
+}
+
+.footer span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px #394478;
+    background: darkcyan;
+}
+
+.footer h4 {
+    color: rgb(59, 44, 6);
+}

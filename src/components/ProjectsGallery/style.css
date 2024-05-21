@@ -1,0 +1,21 @@
+.projectGallery {
+    min-height: 300px;
+    background: #E5E5E5;
+    position: relative;
+}
+
+.projectGallery span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px;
+    background: #B8B8B8;
+}
+
+.starting {
+    /* background-color: aquamarine; */
+    background-image: url('../src/components/Images/pexels-7233107.jpg');
+    width: 400px;
+    margin-top: 95px;
+}
